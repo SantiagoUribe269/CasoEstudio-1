@@ -1,0 +1,18 @@
+[
+  {
+    "id": "PARA500",
+    "nombre": "Paracetamol 500mg",
+    "precio": 5.99,
+    "categoria": "Analgesico",
+    "requiere_receta": false,
+    "descripcion": "Alivia el dolor y reduce la fiebre"
+  },
+  {
+    "id": "IBU400",
+    "nombre": "Ibuprofeno 400mg",
+    "precio": 7.50,
+    "categoria": "Antiinflamatorio",
+    "requiere_receta": false,
+    "descripcion": "Reduce inflamacion y dolor"
+  }
+]
